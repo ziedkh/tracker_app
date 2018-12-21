@@ -1,0 +1,7 @@
+package com.ziedkh.tracker;
+
+import static org.junit.Assert.*;
+
+public class MainActivityTest {
+
+}

@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "539309610812",
+    "firebase_url": "https://tracker-3ea32.firebaseio.com",
+    "project_id": "tracker-3ea32",
+    "storage_bucket": "tracker-3ea32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539309610812:android:7f4899364ebfa367",
+        "android_client_info": {
+          "package_name": "com.ziedkh.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539309610812-u3jf3789i3rv487rlq5jo48noeu70qt5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ziedkh.myapplication",
+            "certificate_hash": "906c8e13ba886246af4ea47d61c44e2cced31565"
+          }
+        },
+        {
+          "client_id": "539309610812-omm9upi7fsakko6m4c57dugf17ubvt5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPZNOXC963JML11i8gljuNnuL3ZuImrQQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539309610812-omm9upi7fsakko6m4c57dugf17ubvt5n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "539309610812-vlkd5ngsubrlkup1vngfd05b6qjjgdnn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ziedkh.tracker"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539309610812:android:508aab69b9bfca55",
+        "android_client_info": {
+          "package_name": "com.ziedkh.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539309610812-g91jgerifq478qf1agkur6nir6n8mv0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ziedkh.tracker",
+            "certificate_hash": "906c8e13ba886246af4ea47d61c44e2cced31565"
+          }
+        },
+        {
+          "client_id": "539309610812-omm9upi7fsakko6m4c57dugf17ubvt5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPZNOXC963JML11i8gljuNnuL3ZuImrQQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539309610812-omm9upi7fsakko6m4c57dugf17ubvt5n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "539309610812-vlkd5ngsubrlkup1vngfd05b6qjjgdnn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ziedkh.tracker"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
